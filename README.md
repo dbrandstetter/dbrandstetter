@@ -1,7 +1,7 @@
 <h3 align='center'><i>💫 Hey,💫</i></h3>
 <br>
 <p align='center'>As an IT student focusing on the domains of networking technology and cybersecurity, my hunger for continous education and real-word experience is insatiable - this being the primary motivator for all projects created & courses takes of mine.</p>
-<p align='center'>Also, performing as a part-time junior dev.</p>
+<p align='center'>Also, working as a part-time junior dev.</p>
 <hr>
 <h4 align='center'><i>Tech stack</i></h4>
 
